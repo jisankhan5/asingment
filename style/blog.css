@@ -89,3 +89,32 @@ nav ul{
   width: 350px;
 
  }
+ .section-title{
+  font-size: 38px;
+  font-weight: bold;
+  color: rgba(37, 36, 50, 1);
+ }
+ .secondary-bg{
+  background-color: rgba(78, 71, 255, 0.1);
+  text-align: center;
+ }
+ .about{
+  border-radius: 24px;
+  margin: 141px 159px;
+  padding: 50px 142px;
+  margin-top: 130px;
+
+ }
+ .item-title{
+  color: #4E47FF;
+  font-size: 80px;
+  font-weight: bold;
+ }
+ .item-description{
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+ }
+.about-items{
+  display: flex;
+  justify-content: space-around;
+}
