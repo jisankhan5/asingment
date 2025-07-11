@@ -252,11 +252,12 @@ section input[type="text"]{
 }
 .input7{
   color: rgba(137, 135, 161, 1);
-  padding-bottom: 100px;
+  /* padding-bottom: 80px; */
   
   
 }
 .input10{
+  padding-bottom: 50px;
   text-align: center;
 }
 nav ul li a{
@@ -268,7 +269,7 @@ nav ul li{
   margin-right: 48px;
   
 }
-nav{
+.input6{
   text-align: center;
   justify-content: space-around;
 }
