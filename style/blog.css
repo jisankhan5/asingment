@@ -194,3 +194,54 @@ main{
   max-width: 1140px;
   margin: 0 auto;
 }
+.column1{
+  font-size: 97px;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 1);
+ text-align: left;
+ padding-right: 200px;
+ border: 30%;
+
+  
+  
+}
+.column{
+  font-size: 18px;
+  font-weight: 500px;
+  color: rgba(0, 0, 0, 1);
+}
+.submit2{
+  padding: 0 150px 0 150px;
+  display: flex;
+  gap: 100px;
+  margin-top: 100px;
+}
+.column3{
+  width: 350px;
+  margin-top: 19px;
+  
+}
+section input[type="email"]{
+  height: 70px;
+  width: 320px;
+  display: block;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  border: none;
+}
+.column4{
+    height: 70px;
+  width: 320px;
+  display: block;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  border: none;
+}
+section input[type="text"]{
+    height: 70px;
+  width: 320px;
+  display: block;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  border: none;
+}
