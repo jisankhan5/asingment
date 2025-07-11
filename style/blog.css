@@ -28,6 +28,7 @@ nav{
    color: #4E47FF;
 }
 .text-primary{
+  margin-bottom: 150px;
  
 }
 nav ul li{
@@ -58,7 +59,7 @@ nav ul{
   }
   
  .header{
-  background-image: url(/Assets/Hero-bg.png);
+  background-image: url('https://i.ibb.co/84sPRmpM/Hero-bg.png');
   margin-top: -50px;
  }
  .banner{
@@ -82,6 +83,7 @@ nav ul{
   display: flex;
   justify-content: space-around;
   margin: 116px 141px 116px 159px;
+
  }
  .banner-contents{
   width: 350px;
