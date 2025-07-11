@@ -25,9 +25,10 @@ nav{
 }
 .nav-title{
   font-size: 34px;
+   color: #4E47FF;
 }
 .text-primary{
-  color: #4E47FF;
+ 
 }
 nav ul li{
   list-style: none;
@@ -53,11 +54,36 @@ nav ul{
 } */
  .banner-content{
   max-width: 905px;
- }
+  text-align: center;
+  }
+  
  .header{
   background-image: url(/Assets/Hero-bg.png);
- width: 100%;
- 
- 
+  margin-top: -50px;
  }
- 
+ .banner{
+  max-width: 1140px;
+  margin: 0 auto;
+  text-align: center;
+ }
+ .banner-primary{
+  font-size: 42px;
+  color: rgba(37, 36, 50, 1);
+ }
+ .banner-description{
+  color: rgba(37, 36, 50, 0.5);
+  
+ }
+ .banner-profile-pic{
+  width: 403px;
+  border-radius: 48px;
+ }
+ .banner-title{
+  display: flex;
+  justify-content: space-around;
+  margin: 116px 141px 116px 159px;
+ }
+ .banner-contents{
+  width: 350px;
+
+ }
